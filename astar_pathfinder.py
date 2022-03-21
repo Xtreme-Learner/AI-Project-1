@@ -1,10 +1,11 @@
+'''MADE BY MAINAK CHAUDHURI, SRM UNIVERSITY, KTR, THIRD-YEAR, CSE-BIG DATA'''
 import pygame
 import math
 from queue import PriorityQueue
 
 WIDTH = 600
 WIN = pygame.display.set_mode((WIDTH, WIDTH))
-pygame.display.set_caption("Path-Finder Dark : Made by Mainak")
+pygame.display.set_caption("Path-Finder Dark : Made by MHKS")
 
 RED = (255, 0, 0)
 GREEN = (0, 255, 0)
