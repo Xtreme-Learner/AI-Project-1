@@ -1,5 +1,9 @@
-// C++ program to find Longest Possible Route in a
+// C++ program to find Shortest Possible Route in a
 // matrix with hurdles
+
+/*MADE BY HARISHANKAR PV, SRM UNIVERSITY, KTR, THIRD-YEAR, CSE-BIG DATA*/
+
+
 #include <bits/stdc++.h>
 using namespace std;
 #define R 3
